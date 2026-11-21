@@ -34,7 +34,7 @@ Objetivo: pegar o resultado da extração que acabou de sair, gerar o card e age
    Criar publicação → ícone de mídia → "Adicionar vídeo" → aba "A partir do URL" → cole a URL raw → Aceitar (carrega a prévia) → Aceitar.
    FEED x STORY (pra não encher o feed de resultado): só PT (14h20), PTN (18h20) e FEDERAL vão pro FEED como Reel.
    PPT, PTM, PTV e CORUJINHA vão como STORY: no topo do editor clique no seletor de tipo ("REEL ˅", ao lado do ícone do Instagram) e escolha "Story" antes de agendar (confira no screenshot que mudou pra Story).
-   Clique na caixa de texto e cole a legenda do .txt (no Story a legenda não aparece, tudo bem).
+   Reel: clique na caixa de texto e cole a legenda do .txt. Story: deixe a caixa de texto VAZIA (o Metricool não aceita texto em Story e dá erro "Máximo de caracteres permitido: 0").
    Clique na data (embaixo, ao lado de Agendar): dia de hoje; hora e minuto são selects (clique e digite o número, Enter) = agora + 10 min.
    Clique Agendar. Confira na aba "Lista" que o post aparece como Pendente com a hora certa.
    Tire screenshot a cada passo; as coordenadas mudam com o tamanho da janela.
