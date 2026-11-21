@@ -32,7 +32,9 @@ Objetivo: pegar o resultado da extração que acabou de sair, gerar o card e age
 5. Metricool no Chrome: `https://app.metricool.com/planner/calendar?blogId=8228123&userId=6479798` (conta jesusitaju69).
    Se cair na tela de login, NÃO tente logar: avise o usuário (notificação) que precisa logar o Metricool no Chrome e pare.
    Criar publicação → ícone de mídia → "Adicionar vídeo" → aba "A partir do URL" → cole a URL raw → Aceitar (carrega a prévia) → Aceitar.
-   Clique na caixa de texto e cole a legenda do .txt.
+   FEED x STORY (pra não encher o feed de resultado): só PT (14h20), PTN (18h20) e FEDERAL vão pro FEED como Reel.
+   PPT, PTM, PTV e CORUJINHA vão como STORY: no topo do editor clique no seletor de tipo ("REEL ˅", ao lado do ícone do Instagram) e escolha "Story" antes de agendar (confira no screenshot que mudou pra Story).
+   Clique na caixa de texto e cole a legenda do .txt (no Story a legenda não aparece, tudo bem).
    Clique na data (embaixo, ao lado de Agendar): dia de hoje; hora e minuto são selects (clique e digite o número, Enter) = agora + 10 min.
    Clique Agendar. Confira na aba "Lista" que o post aparece como Pendente com a hora certa.
    Tire screenshot a cada passo; as coordenadas mudam com o tamanho da janela.
